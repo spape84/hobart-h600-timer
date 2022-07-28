@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="0.55118in" height="0.68071in"
+	 viewBox="0 0 39.7 49" style="enable-background:new 0 0 39.7 49;" xml:space="preserve">
+<g id="copper0">
+	<g id="copper1">
+		
+			<circle id="connector5pin" fill="none" stroke="#F7BD13" stroke-width="1.2235" stroke-miterlimit="3.9985" cx="27.19" cy="10.71" r="2.299"/>
+		
+			<circle id="connector4pin" fill="none" stroke="#F7BD13" stroke-width="1.2235" stroke-miterlimit="3.9985" cx="14.095" cy="10.71" r="2.299"/>
+		
+			<circle id="connector3pin" fill="none" stroke="#F7BD13" stroke-width="1.2235" stroke-miterlimit="3.9985" cx="27.19" cy="24.506" r="2.299"/>
+		
+			<circle id="connector2pin" fill="none" stroke="#F7BD13" stroke-width="1.2235" stroke-miterlimit="3.9985" cx="14.095" cy="24.506" r="2.299"/>
+		
+			<circle id="connector1pin" fill="none" stroke="#F7BD13" stroke-width="1.2235" stroke-miterlimit="3.9985" cx="27.19" cy="37.9" r="2.299"/>
+		
+			<circle id="connector0pin" fill="none" stroke="#F7BD13" stroke-width="1.2235" stroke-miterlimit="3.9985" cx="14.095" cy="37.9" r="2.299"/>
+		
+			<line id="conn0" fill="none" stroke="#F7BD13" stroke-width="2.9989" stroke-miterlimit="3.9985" x1="16.394" y1="37.9" x2="24.891" y2="37.9"/>
+		
+			<line id="conn1" fill="none" stroke="#F7BD13" stroke-width="2.9989" stroke-miterlimit="3.9985" x1="16.394" y1="24.506" x2="24.891" y2="24.506"/>
+		
+			<line id="conn2" fill="none" stroke="#F7BD13" stroke-width="2.9989" stroke-miterlimit="3.9985" x1="16.394" y1="10.71" x2="24.891" y2="10.71"/>
+	</g>
+</g>
+<g id="outline">
+	<rect y="0.015" fill="none" width="39.685" height="48.981"/>
+</g>
+<g id="keepout">
+</g>
+<g id="soldermask">
+</g>
+<g id="silkscreen">
+	
+		<line fill="none" stroke="#000000" stroke-width="1.2235" stroke-miterlimit="3.9985" x1="7.097" y1="0.015" x2="7.297" y2="48.996"/>
+	
+		<rect x="0.6" y="0.615" fill="none" stroke="#000000" stroke-width="1.2235" stroke-miterlimit="3.9985" width="38.485" height="47.782"/>
+</g>
+</svg>

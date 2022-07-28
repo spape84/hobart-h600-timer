@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg83" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1.46in"
+	 height="0.94in" viewBox="0 0 104.882 68.031" overflow="visible" xml:space="preserve">
+<g id="silkscreen">
+	<path id="rect4" fill="none" stroke="#000000" stroke-width="0.744" stroke-miterlimit="10" d="M4.877,0h95.126
+		c2.536,0,4.591,2.423,4.591,5.413v57.206c0,2.989-2.056,5.413-4.591,5.413H4.877c-2.536,0-4.591-2.423-4.591-5.413V5.413
+		C0.286,2.423,2.342,0,4.877,0z"/>
+</g>
+<g id="copper1">
+	<g id="copper0">
+		
+			<circle id="connector0pin" fill="none" stroke="#EA8E00" stroke-width="1.44" stroke-miterlimit="10" cx="23.641" cy="8.816" r="2.412"/>
+		
+			<circle id="connector1pin" fill="none" stroke="#EA8E00" stroke-width="1.44" stroke-miterlimit="10" cx="9.241" cy="8.816" r="2.412"/>
+		
+			<circle id="connector2pin" fill="none" stroke="#EA8E00" stroke-width="1.44" stroke-miterlimit="10" cx="95.641" cy="59.216" r="2.412"/>
+		
+			<circle id="connector3pin" fill="none" stroke="#EA8E00" stroke-width="1.44" stroke-miterlimit="10" cx="81.241" cy="59.216" r="2.412"/>
+		
+			<circle id="connector5pin" fill="none" stroke="#EA8E00" stroke-width="1.44" stroke-miterlimit="10" cx="95.641" cy="8.816" r="2.412"/>
+	</g>
+</g>
+</svg>

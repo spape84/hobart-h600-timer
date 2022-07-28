@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="0.55118in" height="0.68071in"
+	 viewBox="0 0 39.7 49" style="enable-background:new 0 0 39.7 49;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#F7BD13;stroke-width:1.224;}
+	.st1{fill:none;stroke:#F7BD13;stroke-width:3;}
+	.st2{fill:none;}
+	.st3{fill:none;stroke:#000000;stroke-width:1.224;}
+	fill="none" stroke="#F7BD13" stroke-width="1.224"
+</style>
+<g id="copper0">
+	<g id="copper1">
+		<circle id="connector5pin" fill="none" stroke="#F7BD13" stroke-width="1.224" cx="27.2" cy="11.7" r="2.3"/>
+		<circle id="connector4pin" fill="none" stroke="#F7BD13" stroke-width="1.224" cx="14.1" cy="11.7" r="2.3"/>
+		<circle id="connector3pin" fill="none" stroke="#F7BD13" stroke-width="1.224" cx="27.2" cy="24.8" r="2.3"/>
+		<circle id="connector2pin" fill="none" stroke="#F7BD13" stroke-width="1.224" cx="14.1" cy="24.8" r="2.3"/>
+		<circle id="connector1pin" fill="none" stroke="#F7BD13" stroke-width="1.224" cx="27.2" cy="37.9" r="2.3"/>
+		<circle id="connector0pin" fill="none" stroke="#F7BD13" stroke-width="1.224" cx="14.1" cy="37.9" r="2.3"/>
+		<line id="conn0" fill="none" stroke="#F7BD13" stroke-width="3" x1="16.4" y1="37.9" x2="24.9" y2="37.9"/>
+		<line id="conn1" fill="none" stroke="#F7BD13" stroke-width="3" x1="16.4" y1="24.8" x2="24.9" y2="24.8"/>
+		<line id="conn2" fill="none" stroke="#F7BD13" stroke-width="3" x1="16.4" y1="11.7" x2="24.9" y2="11.7"/>
+	</g>
+</g>
+<g id="outline">
+	<rect fill="none" width="39.7" height="49"/>
+</g>
+<g id="keepout">
+</g>
+<g id="soldermask">
+</g>
+<g id="silkscreen">
+	<line fill="none" stroke="#000000" stroke-width="1.224" class="st3" x1="7.1" y1="0" x2="7.3" y2="49"/>
+	<rect fill="none" stroke="#000000" stroke-width="1.224" x="0.6" y="0.6" class="st3" width="38.5" height="47.8"/>
+</g>
+</svg>

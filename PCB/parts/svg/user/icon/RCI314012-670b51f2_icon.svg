@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="Ebene_1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36.85" height="82.205" viewBox="0 0 36.85 82.205"
+	 overflow="visible" xml:space="preserve">
+<font horiz-adv-x="1000">
+<!-- Copyright 1988, 2002 Adobe Systems Incorporated. All rights reserved. -->
+<font-face font-family="OCRAStd" units-per-em="1000" underline-position="-100" underline-thickness="100"/>
+<missing-glyph horiz-adv-x="720" d="M610,0l0,700l-500,0l0,-700M530,650l-170,-255l-170,255M560,95l-170,255l170,255M190,50l170,255l170,-255M160,605l170,-255l-170,-255z"/>
+<glyph unicode="C" horiz-adv-x="720" d="M557,0C580,0 607,14 607,50C607,88 579,100 557,100l-163,0C349,100 339,103 319,144l-85,173C222,341 213,358 213,386C213,417 221,435 234,462l87,174C340,674 347,678 390,678l167,0C580,678 607,692 607,728C607,766 579,778 557,778l-170,0C310,778 267,751 233,682l-92,-185C121,457 113,430 113,386C113,347 123,315 140,281l92,-186C264,30 307,0 382,0z"/>
+<glyph unicode="I" horiz-adv-x="720" d="M410,678l147,0C583,678 607,692 607,728C607,764 583,778 557,778l-394,0C137,778 113,764 113,728C113,692 137,678 163,678l147,0l0,-578l-147,0C137,100 113,86 113,50C113,14 137,0 163,0l394,0C583,0 607,14 607,50C607,86 583,100 557,100l-147,0z"/>
+<glyph unicode="R" horiz-adv-x="720" d="M213,422l23,0l276,-394C523,12 536,0 556,0C584,0 607,19 607,47C607,66 593,85 582,100l-225,322l92,0C529,422 607,470 607,564l0,69C607,722 528,778 449,778l-336,0l0,-728C113,18 127,0 163,0C199,0 213,18 213,50M213,678l223,0C466,678 507,673 507,633l0,-69C507,524 463,522 435,522l-222,0z"/>
+<glyph unicode="4" horiz-adv-x="720" d="M263,354l0,374C263,753 251,778 213,778C175,778 163,753 163,728l0,-474l294,0l0,-204C457,18 471,0 507,0C543,0 557,18 557,50l0,204C583,254 607,268 607,304C607,340 583,354 557,354l0,289C557,668 545,693 507,693C469,693 457,668 457,643l0,-289z"/>
+<glyph unicode="1" horiz-adv-x="720" d="M410,100l0,678l-247,0C137,778 113,764 113,728C113,692 137,678 163,678l147,0l0,-578l-147,0C137,100 113,86 113,50C113,14 137,0 163,0l394,0C583,0 607,14 607,50l0,252C607,331 594,352 557,352C520,352 507,331 507,302l0,-202z"/>
+<glyph unicode="3" horiz-adv-x="720" d="M507,678l0,-166C507,456 485,439 457,439l-196,0C235,439 211,425 211,389C211,353 235,339 261,339l196,0C485,339 507,322 507,266l0,-166l-344,0C137,100 113,86 113,50C113,14 137,0 163,0l344,0C564,0 607,43 607,100l0,192C607,332 599,361 568,389C599,417 607,446 607,486l0,192C607,735 564,778 507,778l-344,0C137,778 113,764 113,728C113,692 137,678 163,678z"/>
+<glyph unicode="2" horiz-adv-x="720" d="M213,339l282,0C528,339 551,344 576,367C604,393 607,420 607,456l0,205C607,697 604,724 576,750C551,773 528,778 495,778l-332,0C137,778 113,764 113,728C113,692 137,678 163,678l344,0l0,-239l-281,0C151,439 113,401 113,326l0,-326l444,0C583,0 607,14 607,50C607,86 583,100 557,100l-344,0z"/>
+<glyph unicode="0" horiz-adv-x="720" d="M213,778C158,778 113,733 113,678l0,-578C113,44 156,0 213,0l294,0C564,0 607,44 607,100l0,578C607,733 562,778 507,778M213,100l0,578l294,0l0,-578z"/>
+</font>
+
+	<g id="icon">
+	<text transform="matrix(1 0 0 1 5.4295 32.263)" font-family="'OCRAStd'" font-size="6px">314012</text>
+	<rect fill="none" width="36.85" height="82.205"/>
+	<text transform="matrix(1 0 0 1 5.3646 25.1296)" font-family="'OCRAStd'" font-size="6px">RCI</text>
+	<rect x="27.551" y="4.754" fill="none" stroke="#D41D00" stroke-miterlimit="10" width="10.641" height="17.874"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="10.2589" y1="56.5892" x2="27.551" y2="56.5892">
+		<stop  offset="0" style="stop-color:#D4B100"/>
+		<stop  offset="0.0723" style="stop-color:#CDAB00"/>
+		<stop  offset="0.6981" style="stop-color:#957A00"/>
+		<stop  offset="1" style="stop-color:#7F6700"/>
+	</linearGradient>
+	<rect x="10.259" y="35.431" fill="url(#SVGID_1_)" stroke="#B9B9B9" stroke-miterlimit="10" width="17.292" height="42.316"/>
+</g>
+</svg>
